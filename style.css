@@ -434,8 +434,8 @@ section .title::after{
     width: 150px;
     height: 150px;
     object-fit: cover;
-    border-radius: 50%;
-    border: 5px solid #eb7ff7;
+    border-radius: 10%;
+    border: 2px solid #eb7ff7;
     transition: all 0.3s ease;
 }
 .projects .carousel .card:hover img{
